@@ -1,5 +1,6 @@
 # Ex-PY
-Supports: Windows
+Supports: Windows;
+
 A automation GUI for all applications.
 
 # Installation (WINDOWS 7 - 8 - 10 - 11)
