@@ -1,7 +1,5 @@
 # EXPY SEA-CLAM
 
-import sys
-from io import StringIO
 import psutil
 import mouse
 from tkinter.scrolledtext import ScrolledText
