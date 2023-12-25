@@ -1,3 +1,5 @@
+![plot](./icons/expy.png)
+
 # Ex-PY
 Ex-PY: External Python
 
