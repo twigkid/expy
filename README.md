@@ -1,6 +1,5 @@
-![plot](./icons/expy.png)
+![plot](./icons/expy.png)  # Ex-PY
 
-# Ex-PY
 Ex-PY: External Python
 
 Supports: Windows;
